@@ -1,5 +1,5 @@
 # module du helios launcher
-name: Launcher Build
+name: Launcher Build ElFo2K
 on:
   push:
     branches: [ master ]
